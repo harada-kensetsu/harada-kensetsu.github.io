@@ -1,1 +1,0 @@
-# harada-kensetsu.github.io
