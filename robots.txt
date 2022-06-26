@@ -1,37 +1,19 @@
 User-agent: *
 
-Disallow: /work/fall-plaza/
 
-Disallow: /services/accounting/
 
-Disallow: /work/modern-hospital/
 
-Disallow: /services/tax-filing/
 
-Disallow: /work/cargo-terminal/
 
-Disallow: /history/
 
-Disallow: /pages/
 
-Disallow: /about/
 
-Disallow: /services/mergers/
 
-Disallow: /services/business-sales/
 
-Disallow: /services/superannuation/
 
-Disallow: /services/business-advisory/
 
-Disallow: /contact/
 
-Disallow: /
 
-Disallow: /work/
 
-Disallow: /services/
 
-Disallow: /404/
 
-Disallow: /tags/
