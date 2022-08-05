@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>こだわりの家づくり on 原田建設｜埼玉県入間市の地域に寄りそう工務店</title>
+    <title>原田建設ができること on 原田建設｜埼玉県入間市の地域に寄りそう工務店</title>
     <link>https://harada-kensetsu.github.io/services/</link>
-    <description>Recent content in こだわりの家づくり on 原田建設｜埼玉県入間市の地域に寄りそう工務店</description>
+    <description>Recent content in 原田建設ができること on 原田建設｜埼玉県入間市の地域に寄りそう工務店</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate>
+    <language>ja-jp</language>
+    <lastBuildDate>Fri, 29 Jul 2022 11:52:18 +0700</lastBuildDate>
     
 	<atom:link href="https://harada-kensetsu.github.io/services/index.xml" rel="self" type="application/rss+xml" />
     
@@ -44,10 +44,10 @@
       <guid>https://harada-kensetsu.github.io/services/insulation/</guid>
       <description>大切な住まいに必要なものの1つ、それは高断熱化です。
 住宅の断熱性能を上げることにより、主に２つのメリットがあります。
-断熱性能を上げることによるメリット1つ目 1つ目は、換気が正常に機能します。
+断熱性能を上げることによるメリット1つ目は、 換気が正常に機能します。
 気密が良くないと、家の隙間から給気し排気口から取り込んだ空気を排出するため、住宅の換気が正常に機能しません。
-空気が計画通り換気、循環しシックハウス症候群等の深刻な健康被害リスクを減少させ、健康を維持できます。
-断熱性能を上げることによるメリット2つ目 2つ目は、光熱費を最適化できます。
+空気が計画通り換気、循環することで、シックハウス症候群等の深刻な健康被害リスクを減少させ、健康を維持できます。
+断熱性能を上げることによるメリット2つ目は、 光熱費を最適化できます。
 気密が悪いと住宅の中で温めたり冷やした空気が隙間を通して外部へ流出することで、その分のエネルギーが無駄になり光熱費が余分に掛かってしまいます。
  断熱性を高めるために施主様として実践できること 断熱性能を上げるという観点から、施主様が意識して選択・実践できることは多くあります。
  断熱欠損させないために外戚側に極力コンセント付けない 玄関土間断熱する 断熱性能の高い玄関ドアを採用する  K3 グレード以上   ヒートショックを防ぐため、洗面所にエアコンを設置する  等、間取り設計段階で検討したい事項が幾つかあります。
@@ -97,15 +97,6 @@
       
       <guid>https://harada-kensetsu.github.io/services/superannuation/</guid>
       <description>実際に建てた注文住宅の一例をご紹介します。</description>
-    </item>
-    
-    <item>
-      <title>土地活用をお考えの方</title>
-      <link>https://harada-kensetsu.github.io/services/business-advisory/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-      
-      <guid>https://harada-kensetsu.github.io/services/business-advisory/</guid>
-      <description>資産である土地を活用し、店舗型住宅、賃貸用住宅のご相談も賜ります。</description>
     </item>
     
   </channel>
