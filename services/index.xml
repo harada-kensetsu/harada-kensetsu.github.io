@@ -17,7 +17,7 @@
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
       
       <guid>https://harada-kensetsu.github.io/services/accounting/</guid>
-      <description>間取り設計は、弊社が委託している「高橋勇設計事務所」が間取り設計をお手伝いします。
+      <description>間取り設計は、弊社が委託している「高橋勇設計事務所」がお手伝いします。
 高橋勇設計事務所に関して、詳細はこちらをご確認下さい。</description>
     </item>
     
@@ -37,7 +37,21 @@
     </item>
     
     <item>
-      <title>高気密化の重要性</title>
+      <title>施工事例</title>
+      <link>https://harada-kensetsu.github.io/services/examples/</link>
+      <pubDate>Sat, 06 Aug 2022 00:34:55 +0900</pubDate>
+      
+      <guid>https://harada-kensetsu.github.io/services/examples/</guid>
+      <description>弊社では、新築住宅、中古住宅のリフォームをメインに、外構工事含めて幅広く対応が可能です。
+自然と調和し、冬の太陽熱エネルギーを取り入れる高断熱樹脂サッシを採用。高気密・高断熱により熱を逃しません。
+夏は高断熱で外からの熱を遮断し、高気密により湿度の取り込みを抑え、サラサラとした快適な空間で過ごせるよう丁寧に施工を行います。
+季節に応じて機能するサッシで、窓の位置を考慮し日当たりを考え、 お客様に合ったプランをご提案させて頂きます。
+実際に建てた注文住宅の一例をご紹介します。
+ </description>
+    </item>
+    
+    <item>
+      <title>住宅の性能向上：高気密化</title>
       <link>https://harada-kensetsu.github.io/services/airtight/</link>
       <pubDate>Fri, 05 Aug 2022 09:03:13 +0900</pubDate>
       
@@ -62,7 +76,7 @@
     </item>
     
     <item>
-      <title>高断熱化の重要性</title>
+      <title>住宅の性能向上：高断熱化</title>
       <link>https://harada-kensetsu.github.io/services/insulation/</link>
       <pubDate>Thu, 04 Aug 2022 09:21:38 +0900</pubDate>
       
@@ -74,6 +88,7 @@
 空気が計画通り換気、循環することで、シックハウス症候群等の深刻な健康被害リスクを減少させ、健康を維持できます。
 断熱性能を上げることによるメリット2つ目は、 光熱費を最適化できます。
 気密が悪いと住宅の中で温めたり冷やした空気が隙間を通して外部へ流出することで、その分のエネルギーが無駄になり光熱費が余分に掛かってしまいます。
+厚生労働省が定義する「建築物環境衛生管理基準」 の ２　空気環境の調整 には、建築物内の温度は17℃以上28℃以下、相対湿度40％以上70％以下を維持することで快適な環境を実現できる旨が記載されています。
  断熱性を高めるために施主様として実践できること 断熱性能を上げるという観点から、施主様が意識して選択・実践できることは多くあります。
  断熱欠損させないために外戚側に極力コンセント付けない 玄関土間断熱する 断熱性能の高い玄関ドアを採用する  K3 グレード以上   ヒートショックを防ぐため、洗面所にエアコンを設置する  等、間取り設計段階で検討したい事項が幾つかあります。
  断熱処理 断熱性能を高めるため、次の施工をオプションで行います。
@@ -88,15 +103,6 @@
       <guid>https://harada-kensetsu.github.io/services/business-sales/</guid>
       <description>ご要望のプランと予算を伺い、ご要望に対してどのようなアプローチがあるかご提案いたします。
 ご要望のプランがおおよそ固まり次第、お見積りを行います。コストを最適化するため数週間お時間いただいております。各種お見積りは無料です。</description>
-    </item>
-    
-    <item>
-      <title>建築実例</title>
-      <link>https://harada-kensetsu.github.io/services/superannuation/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
-      
-      <guid>https://harada-kensetsu.github.io/services/superannuation/</guid>
-      <description>実際に建てた注文住宅の一例をご紹介します。</description>
     </item>
     
   </channel>
