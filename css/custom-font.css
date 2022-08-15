@@ -1,0 +1,54 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.navbar-custom {
+	font-family: "F66FudeRenjyou", Helvetica, "Sawarabi Gothic", Meiryo, "メイリオ", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN", YuGothic, "游ゴシック", Arial, sans-serif;
+}
+
+@font-face {
+	font-family: 'F66FudeRenjyou';
+	src: url('/css/F66FudeRenjyou.ttf') format('truetype');
+}
+
+body {
+	font-family: F66FudeRenjyou;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: F66FudeRenjyou;
+}
+
+.navbar-custom {
+	font-family: F66FudeRenjyou;
+}
+
+.intro-header .site-heading .subheading,
+.intro-header .page-heading .subheading {
+	font-family: F66FudeRenjyou;
+}
+
+.intro-header .post-heading .subheading {
+	font-family: F66FudeRenjyou;
+}
+
+.btn {
+	font-family: F66FudeRenjyou;
+}
+
+.pager li>a,
+.pager li>span {
+	font-family: F66FudeRenjyou;
+}
+
+.one-tag-list .tag-text {
+	font-family: F66FudeRenjyou;
+}
